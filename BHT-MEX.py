@@ -176,7 +176,7 @@ class Main:
 				self.id.append(__+str(_))
 			print("\033[0;93m [+] TOTAL ID -> \033[0;96m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n%s [!] USE %s, %s(COMMA)%s FOR SEPARATOR "%(Y,G,B,Y))
+				print("\n%s [!] USE %s, %s(COMMA)%s FOR B-H-T "%(Y,G,B,Y))
 				print("%s EXAMPLE : %s123456,1234567,123456789"%(Y,G))
 				listpass = input("%s [?] ENTER PASSWORD :%s "%(Y,G))
 				if len(listpass)<=5:
@@ -204,7 +204,7 @@ class Main:
 				self.id.append(__+str(_))
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n%s [!] USE %s, %s(COMMA)%s FOR SEPARATOR "%(Y,W,B,Y))
+				print("\n%s [!] USE %s, %s(COMMA)%s FOR B-H-T "%(Y,W,B,Y))
 				print("%s EXAMPLE : %s123456,1234567,123456789"%(Y,G))
 				listpass = input("%s [?] ENTER PASSWORD :%s "%(Y,G))
 				if len(listpass)<=5:
@@ -234,7 +234,7 @@ class Main:
 				self.id.append(__+str(_))
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n%s [!] USE %s, %s(COMMA)%s FOR KHAN  "%(Y,G,B,Y))
+				print("\n%s [!] USE %s, %s(COMMA)%s FOR B-H-T  "%(Y,G,B,Y))
 				print("%s EXAMPLE : %s123456,1234567,123456789"%(Y,G))
 				listpass = input("%s [?] ENTER PASSWORD :%s "%(Y,G))
 				if len(listpass)<=5:
@@ -264,7 +264,7 @@ class Main:
 				self.id.append(__+str(_))
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n%s [!] USE %s, %s(COMMA)%s FOR MAHIDI "%(Y,G,B,Y))
+				print("\n%s [!] USE %s, %s(COMMA)%s FOR B-H-T "%(Y,G,B,Y))
 				print("%s EXAMPLE : %s123456,1234567,123456789"%(Y,G)) 
 				listpass = input("%s [?] ENTER PASSWORD :%s "%(Y,G))
 				if len(listpass)<=5:
@@ -294,7 +294,7 @@ class Main:
 				self.id.append(__+str(_))
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n%s [!] USE %s, %s(COMMA)%s FOR SEPARATOR "%(Y,G,B,Y))
+				print("\n%s [!] USE %s, %s(COMMA)%s FOR B-H-T "%(Y,G,B,Y))
 				print("%s EXAMPLE : %s123456,1234567,123456789"%(Y,G))  
 				listpass = input("%s [?] ENTER PASSWORD :%s "%(Y,G))
 				if len(listpass)<=5:
@@ -327,7 +327,7 @@ class Main:
 				self.id.append(___+str(_)+__)
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n%s [!] USE %s, %s(COMMA)%s FOR 𝐁-𝐇-𝐓 "%(Y,G,B,Y))
+				print("\n%s [!] USE %s, %s(COMMA)%s FOR B-H-T "%(Y,G,B,Y))
 				print("%s EXAMPLE : %s123456,1234567,123456789"%(Y,G)) 
 				listpass = input(" [?] ENTER PASSWORD : ")
 				if len(listpass)<=5:
@@ -356,7 +356,7 @@ class Main:
 				self.id.append(__+str(_))
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
 			with ThreadPoolExecutor(max_workers=30) as coeg:
-				print("\n%s [!] USE %s, %s(COMMA)%s FOR SEPARATOR "%(Y,G,B,Y))
+				print("\n%s [!] USE %s, %s(COMMA)%s FOR B-H-T "%(Y,G,B,Y))
 				print("%s EXAMPLE : %s123456,1234567,123456789"%(Y,G))
 				listpass = input("%s [?] ENTER PASSWORD :%s "%(Y,G))
 				if len(listpass)<=5:
