@@ -52,7 +52,7 @@ def notice():
 
  
 
-	runtxt("\n\033[0;99m ðŸ”¥YOU ARE NOT PREMIUM USERðŸ”¥ ")
+	runtxt("\n\033[0;99m ⚠️YOU ARE NOT PREMIUM USER⚠️ ")
 	runtxt("\033[0;93m SEND THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
 	runtxt("\033[0;93m ADMIN FACEBOOK >> \033[0;92mBD JAHIED\033[0;92m")
 	subprocess.check_output(["am", "start", "https://www.facebook.com/ROOT.OFF.JAHIED"])
